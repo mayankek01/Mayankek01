@@ -13,6 +13,4 @@
 
 - ⚡ Fun fact **I am Taekwondo Black Belt 🥷**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankek01&show_icons=true&locale=en&layout=compact" alt="mayankek01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankek01&show_icons=true&locale=en" alt="mayankek01" /></p>
