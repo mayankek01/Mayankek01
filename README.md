@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankek01&label=Profile%20views&color=0e75b6&style=flat" alt="mayankek01" /> </p>
 
-- 🌱 My Tech Stack **MERN stack Along with Next.js and Nest.js**
+- 🌱 My Tech Stack **Django stack Along with Next.js**
 
-- 💬 Ask me about **React.js , Next.js , Nest.js , Express.js , Node.js**
+- 💬 Ask me about **React.js , Next.js , Django**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mayank-ekaghara-268629226/**
 
